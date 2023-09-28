@@ -24,8 +24,33 @@ ul{
     padding: 0;
     gap: 24px;
 }
-a{
+a, .hero-subtext{
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
+    max-width: 450px;
+}
+
+.section1{
+    display: flex;
+    padding: 100px 300px;
+    background: #1F2937;
+}
+.section1-img{
+    margin-left: auto;
+}
+.hero{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    max-width: 325px;
+}
+.sign-up{
+    background: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 8px 35px;
+    margin-top: 12px;
+    border-radius: 10px 10px;
+    border: 0;
 }
