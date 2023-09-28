@@ -90,3 +90,24 @@ a, .hero-subtext{
     color: #6c717b;
     font-size: 18px;
 }
+.section3{
+    background: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 120px 400px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 300;
+    max-width: 22em;
+}
+.source{
+    font-size: 24px;
+    margin-left: 465px;
+    font-weight: bold;
+    color: #1F2937;
+}
