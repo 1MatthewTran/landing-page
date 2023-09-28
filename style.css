@@ -140,3 +140,12 @@ a, .hero-subtext{
     border: 2px solid #E5E7EB;
     margin: 0;
 }
+.footer{
+    background: #1F2937;
+    padding: 45px;
+}
+.copyright{
+    text-align: center;
+    color:  #E5E7EB;
+    font-size: 18px;
+}
